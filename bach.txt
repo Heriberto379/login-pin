@@ -1,0 +1,5 @@
+project/
+│
+├── index.html       # Página principal
+├── style.css        # Estilos
+└── app.js           # Funcionalidad
